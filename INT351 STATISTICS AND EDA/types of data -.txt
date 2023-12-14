@@ -1,0 +1,8 @@
+types of data :-
+1. Quantitative(Numeric based) - Discrete, continuous (Continuous data has any value within a given range while discrete data is supposed to have a distinct value)
+2. Qualitative(Non-numeric) - Nominal(ordering can't be defined like red is greter then blue or not), 
+                              Ordinal(ordered values - like grading system)
+3. Categorical Data - Categorical data are used to represent the characteristics. or can also be represented in from of 0 and 1.
+4. Time Series Data - It is the collection of a sequence of numbers collected at a regular interval over a certain period of time.
+                      ex :- price of stocks
+5. Text Data - Text data is nothing but literals.
